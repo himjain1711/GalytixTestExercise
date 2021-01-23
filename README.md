@@ -10,4 +10,4 @@ Negative scenario:
 1. We can pass wrong jobName/location/postdate to test negative scenario. 
 
 Running end-to-end tests
-Run protractor e2e/protractor.conf.js to execute the end-to-end tests via Protractor.
+Run -  protractor e2e/protractor.conf.js to execute the end-to-end tests via Protractor.
